@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ET3-Coffee/static/css/main.5882ce58.css",
+    "main.js": "/ET3-Coffee/static/js/main.829e502a.js",
+    "static/media/background.png": "/ET3-Coffee/static/media/background.4beae5c58fdd16b9114e.png",
+    "static/media/image.png": "/ET3-Coffee/static/media/image.de7648de1c7fe6734772.png",
+    "static/media/image4.png": "/ET3-Coffee/static/media/image4.743800bd0421205c8f8b.png",
+    "static/media/image2.png": "/ET3-Coffee/static/media/image2.2112775d020835ac03e2.png",
+    "static/media/image1.png": "/ET3-Coffee/static/media/image1.0eb5c4c3479a761dc388.png",
+    "static/media/image3.png": "/ET3-Coffee/static/media/image3.e51c06320bb0b29eff5b.png",
+    "index.html": "/ET3-Coffee/index.html",
+    "main.5882ce58.css.map": "/ET3-Coffee/static/css/main.5882ce58.css.map",
+    "main.829e502a.js.map": "/ET3-Coffee/static/js/main.829e502a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5882ce58.css",
+    "static/js/main.829e502a.js"
+  ]
+}
