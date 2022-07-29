@@ -2,7 +2,7 @@
 
 This project was created by react.js and below you can see how to download and run it \
 you can check the task live from this link : https://7assan3ly.github.io/ET3-Coffee/ \
-and also check it in mobile and tablet view \
+and also check it in mobile and tablet view 
 
 and there is also screenshots of this task \
 ![Navbar and Head section](https://i.imgur.com/FQ4Fqtr.png) \
