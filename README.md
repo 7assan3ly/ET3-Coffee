@@ -8,20 +8,20 @@ and there is also screenshots of this task \
 ![Navbar and Head section](https://i.imgur.com/FQ4Fqtr.png) \
 ![make coffee section](https://i.imgur.com/u4NT3dR.png) \
 ![coffee products section](https://i.imgur.com/c2YKZMW.png) \
-![join us section](https://i.imgur.com/sGgWT2B.png) \
+![join us section](https://i.imgur.com/sGgWT2B.png) 
 
 - mobile view \
 ![Navbar and Head section](https://i.imgur.com/p5MMwOJ.png) \
 ![make coffee section](https://i.imgur.com/4LoYWNe.png) \
 ![coffee products section](https://i.imgur.com/T4o8M9p.png) \
 ![coffee products section](https://i.imgur.com/RDeX6Mg.png) \
-![join us section](https://i.imgur.com/yHGlJra.png) \
+![join us section](https://i.imgur.com/yHGlJra.png) 
 
 - tablet view \
 ![Navbar and Head section](https://i.imgur.com/JG84SKi.png) \
 ![make coffee section](https://i.imgur.com/daAslLs.png) \
 ![coffee products section](https://i.imgur.com/eO6MOBk.png) \
-![join us section](https://i.imgur.com/IGhX53J.png) \
+![join us section](https://i.imgur.com/IGhX53J.png) 
 
 ## Available Scripts
 
