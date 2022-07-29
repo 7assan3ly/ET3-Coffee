@@ -1,27 +1,27 @@
 # ET3 Caffee Task documentation 
 
-This project was created by react.js and below you can see how to download and run it
-you can check the task live from this link : https://7assan3ly.github.io/ET3-Coffee/
-and also check it in mobile and tablet view 
+This project was created by react.js and below you can see how to download and run it \
+you can check the task live from this link : https://7assan3ly.github.io/ET3-Coffee/ \
+and also check it in mobile and tablet view \
 
-and there is also screenshots of this task
-![Navbar and Head section](https://i.imgur.com/FQ4Fqtr.png)
-![make coffee section](https://i.imgur.com/u4NT3dR.png)
-![coffee products section](https://i.imgur.com/c2YKZMW.png)
-![join us section](https://i.imgur.com/sGgWT2B.png)
+and there is also screenshots of this task \
+![Navbar and Head section](https://i.imgur.com/FQ4Fqtr.png) \
+![make coffee section](https://i.imgur.com/u4NT3dR.png) \
+![coffee products section](https://i.imgur.com/c2YKZMW.png) \
+![join us section](https://i.imgur.com/sGgWT2B.png) \
 
-- mobile view
-![Navbar and Head section](https://i.imgur.com/p5MMwOJ.png)
-![make coffee section](https://i.imgur.com/4LoYWNe.png)
-![coffee products section](https://i.imgur.com/T4o8M9p.png)
-![coffee products section](https://i.imgur.com/RDeX6Mg.png)
-![join us section](https://i.imgur.com/yHGlJra.png)
+- mobile view \
+![Navbar and Head section](https://i.imgur.com/p5MMwOJ.png) \
+![make coffee section](https://i.imgur.com/4LoYWNe.png) \
+![coffee products section](https://i.imgur.com/T4o8M9p.png) \
+![coffee products section](https://i.imgur.com/RDeX6Mg.png) \
+![join us section](https://i.imgur.com/yHGlJra.png) \
 
-- tablet view
-![Navbar and Head section](https://i.imgur.com/JG84SKi.png)
-![make coffee section](https://i.imgur.com/daAslLs.png)
-![coffee products section](https://i.imgur.com/eO6MOBk.png)
-![join us section](https://i.imgur.com/IGhX53J.png)
+- tablet view \
+![Navbar and Head section](https://i.imgur.com/JG84SKi.png) \
+![make coffee section](https://i.imgur.com/daAslLs.png) \
+![coffee products section](https://i.imgur.com/eO6MOBk.png) \
+![join us section](https://i.imgur.com/IGhX53J.png) \
 
 ## Available Scripts
 
