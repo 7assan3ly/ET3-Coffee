@@ -1,0 +1,34 @@
+.Head {
+    background-image: url(../../assets/images/background.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: rgba(6,32,51,.8);
+    height: calc(100vh - 100px);
+    width: 100%;
+    position: relative;
+}
+.HeadTxt {
+    position: absolute;
+    top: 170px;
+    left: 50px;
+    color: #d2a131;
+    font-size: 60px;
+    font-weight: 600;
+    text-shadow: 0px 0px 5px rgba(0,0,0,0.25);
+}
+.secTxt {
+    margin-left: 75px;
+}
+@media only screen and (max-width: 600px) {
+    .Head {
+        width: 100%;
+        background-size: cover;
+    }
+    .HeadTxt {
+        font-size: 20px;
+        left: 30px;
+    }
+    .secTxt {
+        margin-left: 30px;
+    }
+}

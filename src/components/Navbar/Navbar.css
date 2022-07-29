@@ -1,0 +1,96 @@
+* {
+    box-sizing: unset !important;
+}
+.Nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100px;
+    background-color: rgba(250,250,250,255);
+}
+.NavFirst {
+    min-width: 167px;
+}
+.NavForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.NavFormInput {
+    padding: 10px 30px 10px 10px;
+    border: 1px solid #b5b6bf;
+    width: 200px;
+    border-radius: 5px;
+    height: 17px;
+    font-size: 13px !important;
+    line-height: normal;
+}
+.navFormIcon{
+    background-color: #fdb921;
+    color: #fff;
+    border-radius: 0px 5px 5px 0px;
+    font-size: 20px;
+    padding: 11px 10px;
+    margin-left: -30px;
+    height: 17px
+}
+.NavRightForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.NavLogin {
+    margin-right: 25px;
+    color: #fdb921;
+    border: none;
+    background-color: rgba(250,250,250,255);
+    padding: 5px 10px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: 0.5s all ease;
+}
+.NavJoin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    color: #fff;
+    background-color: #fdb921;
+    padding: 15px 20px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.NavJoinIcon {
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .Nav {
+        flex-flow: column;
+        height: auto;
+    }
+    .NavFormInput {
+        height: 17px;
+    font-size: 12px !important;
+    }
+    .navFormIcon {
+        padding: 11px 13px;
+        margin-left: -20px
+    }
+    .NavRightForm {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .NavLogin {
+        padding: 5px;
+    font-size: 10px;
+    }
+    .NavJoin {
+        padding: 5px 15px;
+        font-size: 10px;
+    }
+    .NavJoinIcon {
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,60 @@
+.join {
+    margin-top: 200px;
+    margin-bottom: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.joinTxt {
+    text-transform: uppercase;
+    color: #252b42;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+.joinInput {
+    width: 600px;
+    border-radius: 5px;
+    background-color: #f8f9f8;
+    border: 1px solid #b5b6bf;
+    padding: 15px;
+}
+.joinBtn {
+    background-color: #fdb921;
+    border: none;
+    color: #fff;
+    border-radius: 0px 5px 5px 0px;
+    padding: 0px 25px;
+    height: 56px;
+    margin-left: -5px;
+}
+
+@media only screen and (max-width: 600px) {
+    .joinTxt {
+        font-size: 30px;
+    }
+    .joinForm {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .joinInput {
+        width: 200px;
+        padding: 5px;
+    }
+    .joinBtn {
+        padding: 0px 13px;
+        height: 36px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .joinInput {
+        width: 450px;
+        padding: 10px;
+    }
+    .joinBtn {
+        padding: 0px 22px;
+    height: 46px;
+    }
+}

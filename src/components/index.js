@@ -1,0 +1,5 @@
+export { default as Head } from './Head/Head'
+export { default as Join } from './Join/Join'
+export { default as MakeCaffee } from './MakeCaffee/MakeCaffee'
+export { default as Navbar } from './Navbar/Navbar'
+export { default as Products } from './Products/Products'
